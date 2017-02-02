@@ -8,10 +8,15 @@ public class HelloJava {
 		System.out.println("First Commit work");
 		
 		// branch 내용 추가    
-		System.out.println("Second Commit wordk");		
+		System.out.println("Second Commit wordk");	
 		
 		// branch 2
 		System.out.println("Third Commit work");
+		
+		// 원격저장소  
+		System.out.println("GitHub Update ~~~");
+		System.out.println("GitHub Update2 ~~~");
+
 	}
 
 }
