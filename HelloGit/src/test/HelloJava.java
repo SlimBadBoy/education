@@ -11,6 +11,7 @@ public class HelloJava {
 		System.out.println("Second Commit wordk");		
 		// 원격저장소  
 		System.out.println("GitHub Update ~~~");
+		System.out.println("GitHub Update2 ~~~");
 	}
 
 }
